@@ -315,7 +315,7 @@ ${name}
 </div>
 
 <div class="message">
-I just got my ears pierced!
+I just got my pierced!
 </div>
 
 <div class="date">
@@ -331,7 +331,7 @@ ${formattedDate}
 
 
 <div class="footer">
-Ear piercing is a celebration of you!
+Piercing is a celebration of you!
 </div>
 
 </div>
